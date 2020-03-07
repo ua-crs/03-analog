@@ -1,5 +1,5 @@
 #   Project 03-analog
-##  Muestra el valor digital de un tensión dada por un potenciómetro en la salida seria
+##  Muestra el valor digital de un tensión dada por un potenciómetro en la salida serie
 
 - Proyecto preparado para usar con las siguientes placas:
     - Wemos D1 R2   (_ESP8266_)
